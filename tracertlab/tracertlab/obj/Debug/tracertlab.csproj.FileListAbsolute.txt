@@ -1,0 +1,6 @@
+F:\БГУИР\2 курс\4 семестр\КСиС\tracertlab\tracertlab\bin\Debug\tracertlab.exe.config
+F:\БГУИР\2 курс\4 семестр\КСиС\tracertlab\tracertlab\bin\Debug\tracertlab.exe
+F:\БГУИР\2 курс\4 семестр\КСиС\tracertlab\tracertlab\bin\Debug\tracertlab.pdb
+F:\БГУИР\2 курс\4 семестр\КСиС\tracertlab\tracertlab\obj\Debug\tracertlab.csproj.CoreCompileInputs.cache
+F:\БГУИР\2 курс\4 семестр\КСиС\tracertlab\tracertlab\obj\Debug\tracertlab.exe
+F:\БГУИР\2 курс\4 семестр\КСиС\tracertlab\tracertlab\obj\Debug\tracertlab.pdb
