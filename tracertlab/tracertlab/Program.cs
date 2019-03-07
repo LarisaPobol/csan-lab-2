@@ -34,8 +34,17 @@ namespace tracertlab
             }
             else
             {
-                IPHostEntry iphe = Dns.Resolve(ipAddr);
-                iep = new IPEndPoint(iphe.AddressList[0], 0);
+                    try
+                {
+                    IPHostEntry iphe = Dns.GetHostEntry(ipAddr);
+                    iep = new IPEndPoint(iphe.AddressList[0], 0);
+                }
+                catch 
+                {
+                    Console.WriteLine("error! Please check entered data and try again");
+                    return 1;
+                    throw;           
+                }
             }
 
             byte[] message = new byte[mesSize];
